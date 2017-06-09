@@ -15,6 +15,18 @@
 		F2620E001EE9FC8D00E8BC6C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2620DFE1EE9FC8D00E8BC6C /* LaunchScreen.storyboard */; };
 		F2620E0B1EE9FC8D00E8BC6C /* cameraTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F2620E0A1EE9FC8D00E8BC6C /* cameraTests.m */; };
 		F2620E161EE9FC8D00E8BC6C /* cameraUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F2620E151EE9FC8D00E8BC6C /* cameraUITests.m */; };
+		F2620E271EE9FCE800E8BC6C /* DZFBBCustomCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = F2620E251EE9FCE800E8BC6C /* DZFBBCustomCamera.m */; };
+		F2620E281EE9FCE800E8BC6C /* DZFBBCustomCamera.xib in Resources */ = {isa = PBXBuildFile; fileRef = F2620E261EE9FCE800E8BC6C /* DZFBBCustomCamera.xib */; };
+		F2FB2DAE1EEB5431006DA1CF /* closeCamera@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2DA41EEB5431006DA1CF /* closeCamera@2x.png */; };
+		F2FB2DAF1EEB5431006DA1CF /* closeCamera@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2DA51EEB5431006DA1CF /* closeCamera@3x.png */; };
+		F2FB2DB01EEB5431006DA1CF /* Group@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2DA61EEB5431006DA1CF /* Group@2x.png */; };
+		F2FB2DB11EEB5431006DA1CF /* Group@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2DA71EEB5431006DA1CF /* Group@3x.png */; };
+		F2FB2DB21EEB5431006DA1CF /* sc_btn_take@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2DA81EEB5431006DA1CF /* sc_btn_take@2x.png */; };
+		F2FB2DB31EEB5431006DA1CF /* SE_quxiao@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2DA91EEB5431006DA1CF /* SE_quxiao@2x.png */; };
+		F2FB2DB41EEB5431006DA1CF /* SE_quxiao@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2DAA1EEB5431006DA1CF /* SE_quxiao@3x.png */; };
+		F2FB2DB51EEB5431006DA1CF /* SX_confirm@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2DAB1EEB5431006DA1CF /* SX_confirm@2x.png */; };
+		F2FB2DB61EEB5431006DA1CF /* SX_confirm@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2DAC1EEB5431006DA1CF /* SX_confirm@3x.png */; };
+		F2FB2DB71EEB5431006DA1CF /* SX_photograph@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2DAD1EEB5431006DA1CF /* SX_photograph@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +63,19 @@
 		F2620E111EE9FC8D00E8BC6C /* cameraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cameraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2620E151EE9FC8D00E8BC6C /* cameraUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cameraUITests.m; sourceTree = "<group>"; };
 		F2620E171EE9FC8D00E8BC6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2620E241EE9FCE800E8BC6C /* DZFBBCustomCamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DZFBBCustomCamera.h; path = "自定义相机/DZFBBCustomCamera.h"; sourceTree = "<group>"; };
+		F2620E251EE9FCE800E8BC6C /* DZFBBCustomCamera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DZFBBCustomCamera.m; path = "自定义相机/DZFBBCustomCamera.m"; sourceTree = "<group>"; };
+		F2620E261EE9FCE800E8BC6C /* DZFBBCustomCamera.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DZFBBCustomCamera.xib; path = "自定义相机/DZFBBCustomCamera.xib"; sourceTree = "<group>"; };
+		F2FB2DA41EEB5431006DA1CF /* closeCamera@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "closeCamera@2x.png"; sourceTree = "<group>"; };
+		F2FB2DA51EEB5431006DA1CF /* closeCamera@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "closeCamera@3x.png"; sourceTree = "<group>"; };
+		F2FB2DA61EEB5431006DA1CF /* Group@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group@2x.png"; sourceTree = "<group>"; };
+		F2FB2DA71EEB5431006DA1CF /* Group@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Group@3x.png"; sourceTree = "<group>"; };
+		F2FB2DA81EEB5431006DA1CF /* sc_btn_take@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sc_btn_take@2x.png"; sourceTree = "<group>"; };
+		F2FB2DA91EEB5431006DA1CF /* SE_quxiao@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SE_quxiao@2x.png"; sourceTree = "<group>"; };
+		F2FB2DAA1EEB5431006DA1CF /* SE_quxiao@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SE_quxiao@3x.png"; sourceTree = "<group>"; };
+		F2FB2DAB1EEB5431006DA1CF /* SX_confirm@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SX_confirm@2x.png"; sourceTree = "<group>"; };
+		F2FB2DAC1EEB5431006DA1CF /* SX_confirm@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SX_confirm@3x.png"; sourceTree = "<group>"; };
+		F2FB2DAD1EEB5431006DA1CF /* SX_photograph@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SX_photograph@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +126,7 @@
 		F2620DEF1EE9FC8D00E8BC6C /* camera */ = {
 			isa = PBXGroup;
 			children = (
+				F2620E231EE9FC9400E8BC6C /* 自定义相机 */,
 				F2620DF31EE9FC8D00E8BC6C /* AppDelegate.h */,
 				F2620DF41EE9FC8D00E8BC6C /* AppDelegate.m */,
 				F2620DF61EE9FC8D00E8BC6C /* ViewController.h */,
@@ -138,6 +164,34 @@
 				F2620E171EE9FC8D00E8BC6C /* Info.plist */,
 			);
 			path = cameraUITests;
+			sourceTree = "<group>";
+		};
+		F2620E231EE9FC9400E8BC6C /* 自定义相机 */ = {
+			isa = PBXGroup;
+			children = (
+				F2FB2DA31EEB5431006DA1CF /* icon */,
+				F2620E241EE9FCE800E8BC6C /* DZFBBCustomCamera.h */,
+				F2620E251EE9FCE800E8BC6C /* DZFBBCustomCamera.m */,
+				F2620E261EE9FCE800E8BC6C /* DZFBBCustomCamera.xib */,
+			);
+			name = "自定义相机";
+			sourceTree = "<group>";
+		};
+		F2FB2DA31EEB5431006DA1CF /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				F2FB2DA41EEB5431006DA1CF /* closeCamera@2x.png */,
+				F2FB2DA51EEB5431006DA1CF /* closeCamera@3x.png */,
+				F2FB2DA61EEB5431006DA1CF /* Group@2x.png */,
+				F2FB2DA71EEB5431006DA1CF /* Group@3x.png */,
+				F2FB2DA81EEB5431006DA1CF /* sc_btn_take@2x.png */,
+				F2FB2DA91EEB5431006DA1CF /* SE_quxiao@2x.png */,
+				F2FB2DAA1EEB5431006DA1CF /* SE_quxiao@3x.png */,
+				F2FB2DAB1EEB5431006DA1CF /* SX_confirm@2x.png */,
+				F2FB2DAC1EEB5431006DA1CF /* SX_confirm@3x.png */,
+				F2FB2DAD1EEB5431006DA1CF /* SX_photograph@3x.png */,
+			);
+			path = icon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,7 +261,7 @@
 				TargetAttributes = {
 					F2620DEC1EE9FC8D00E8BC6C = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 3G8327GJ7X;
+						DevelopmentTeam = XH5F445MC5;
 						ProvisioningStyle = Automatic;
 					};
 					F2620E051EE9FC8D00E8BC6C = {
@@ -249,9 +303,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2FB2DB21EEB5431006DA1CF /* sc_btn_take@2x.png in Resources */,
 				F2620E001EE9FC8D00E8BC6C /* LaunchScreen.storyboard in Resources */,
+				F2FB2DAF1EEB5431006DA1CF /* closeCamera@3x.png in Resources */,
+				F2FB2DB31EEB5431006DA1CF /* SE_quxiao@2x.png in Resources */,
+				F2FB2DAE1EEB5431006DA1CF /* closeCamera@2x.png in Resources */,
+				F2FB2DB61EEB5431006DA1CF /* SX_confirm@3x.png in Resources */,
 				F2620DFD1EE9FC8D00E8BC6C /* Assets.xcassets in Resources */,
+				F2FB2DB51EEB5431006DA1CF /* SX_confirm@2x.png in Resources */,
+				F2620E281EE9FCE800E8BC6C /* DZFBBCustomCamera.xib in Resources */,
+				F2FB2DB01EEB5431006DA1CF /* Group@2x.png in Resources */,
 				F2620DFB1EE9FC8D00E8BC6C /* Main.storyboard in Resources */,
+				F2FB2DB41EEB5431006DA1CF /* SE_quxiao@3x.png in Resources */,
+				F2FB2DB71EEB5431006DA1CF /* SX_photograph@3x.png in Resources */,
+				F2FB2DB11EEB5431006DA1CF /* Group@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,6 +343,7 @@
 			files = (
 				F2620DF81EE9FC8D00E8BC6C /* ViewController.m in Sources */,
 				F2620DF51EE9FC8D00E8BC6C /* AppDelegate.m in Sources */,
+				F2620E271EE9FCE800E8BC6C /* DZFBBCustomCamera.m in Sources */,
 				F2620DF21EE9FC8D00E8BC6C /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -427,7 +493,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 3G8327GJ7X;
+				DEVELOPMENT_TEAM = XH5F445MC5;
 				INFOPLIST_FILE = camera/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ChenDongZhi.camera;
@@ -439,7 +505,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 3G8327GJ7X;
+				DEVELOPMENT_TEAM = XH5F445MC5;
 				INFOPLIST_FILE = camera/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ChenDongZhi.camera;
@@ -516,6 +582,7 @@
 				F2620E1C1EE9FC8D00E8BC6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F2620E1D1EE9FC8D00E8BC6C /* Build configuration list for PBXNativeTarget "cameraTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +591,7 @@
 				F2620E1F1EE9FC8D00E8BC6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F2620E201EE9FC8D00E8BC6C /* Build configuration list for PBXNativeTarget "cameraUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +600,7 @@
 				F2620E221EE9FC8D00E8BC6C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

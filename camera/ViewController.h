@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "DZFBBCustomCamera.h"
 
 @interface ViewController : UIViewController
 
